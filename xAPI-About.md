@@ -101,11 +101,10 @@
 		*	[Appendix B: Table of All Resources](./xAPI-Communication.md#Appendix3B)  
 		*	[Appendix C: Cross Domain Request Example](./xAPI-Communication.md#Appendix3C)  
 
-<a name="partone"></a>
-# Part One: About the Experience API
 
-<a name="introduction-partone"></a>
-## 1.0 Introduction
+# <a name="partone"></a> Part One: About the Experience API
+
+## <a name="introduction-partone"></a> 1.0 Introduction
 
 The Experience API (xAPI) is a technical specification that aims to facilitate the documentation and communication of 
 learning experiences. It specifies a structure to describe learning experiences and defines how these descriptions can 
