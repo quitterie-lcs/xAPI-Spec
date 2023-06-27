@@ -101,8 +101,8 @@
 		*	[Appendix B: Table of All Resources](./xAPI-Communication.md#Appendix3B)  
 		*	[Appendix C: Cross Domain Request Example](./xAPI-Communication.md#Appendix3C)  
 
-<a name="partthree"></a>
-# Part Three: Data Processing, Validation, and Security 
+
+# <a name="partthree"></a> Part Three: Data Processing, Validation, and Security 
 
 This third part details the more technical side of the Experience API, dealing with how Statements are transferred between 
 Learning Record Provider and LRS. A number of libraries are available for a range of technologies (including JavaScript) 
@@ -1160,9 +1160,7 @@ similarly named property from Agent Objects.
 * <a name="2.4.s6.b2"></a>Additional properties not listed here SHOULD* NOT be added to this object and each 
 property MUST occur only once. 
 
-<a name="activitiesres"></a> 
-
-### <a name="2.5">2.5</a> Activities Resource
+### <a name="activitiesres"></a>  Activities Resource
 
 The Activities Resource provides a method to retrieve a full description of an Activity from the LRS. 
 This resource has [Concurrency](#concurrency) controls associated with it.
